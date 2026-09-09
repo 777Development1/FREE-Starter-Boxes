@@ -33,4 +33,5 @@ Need Help Or Want More Free Or Paid Resources?
 
 [Tebex Store](https://777-development.tebex.io/)
 [Discord Invite](https://discord.com/invite/UB4syDaKS6)
-<img width="1536" height="1024" alt="9fb4c9480e9c4e362b484f648b1dc16336086fd8" src="https://github.com/user-attachments/assets/95b295a2-afd8-4645-90cf-c665e02d6023" />
+<img width="1536" height="1024" alt="9fb4c9480e9c4e362b484f648b1dc16336086fd8" src="https://github.com/user-attachments/assets/2ca4dc89-61d7-407f-9e6c-d8aa8cc79ca1" />
+
