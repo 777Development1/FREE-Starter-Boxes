@@ -1,0 +1,10 @@
+['starterbox'] = {
+    label = 'Starter Box',
+    weight = 1000,
+    stack = false,
+    close = true,
+    description = 'Open to receive starter rewards',
+    client = {
+        event = '777-starterbox:client:useBox'
+    }
+},
